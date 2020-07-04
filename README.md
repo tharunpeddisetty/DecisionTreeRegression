@@ -5,8 +5,8 @@ Decision Tree Regression for Predicting Salaries of Employees based on their pos
 Implementing Decision Tree Regression model 
 
 Involves
-Data pre-processing
-Training the model
-Validating the results
-Visualizing the model
-Predicting the salary of an new employee
+1) Data pre-processing
+2) Training the model
+3) Validating the results
+4) Visualizing the model
+5) Predicting the salary of an new employee
